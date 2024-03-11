@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Ø12encoder")
+    (date "2024-01-04")
+    (rev "1")
+    (company "Christopher Xu")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_01x06_Pin" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 7.62 0)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "O12encoder")(type "KiCad")(uri "${KIPRJMOD}/O12encoder.pretty")(options "")(descr ""))
+)

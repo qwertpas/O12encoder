@@ -21,7 +21,7 @@
   (pad "6" smd roundrect (at 0.74 0.25) (size 0.67 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666666667) (tstamp e5e081c9-d9a9-427f-8c52-bc1e88653432))
   (pad "7" smd roundrect (at 0.74 -0.25) (size 0.67 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666666667) (tstamp e5f31007-77a2-4cf9-9a1d-93609d564326))
   (pad "8" smd roundrect (at 0.74 -0.75) (size 0.67 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666666667) (tstamp 143300e1-897e-4c06-b635-7ffdab12b0fe))
-  (model "${KIPRJMOD}/O32controller.pretty/THVD1420DRLR.stp"
+  (model "${KIPRJMOD}/O12encoder.pretty/THVD1420DRLR.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
